@@ -1,0 +1,11 @@
+#intellij crap
+.idea
+#build stuff
+out
+target
+*.iml
+src/main/webapp/META-INF/
+src/main/webapp/WEB-INF/classes/
+src/main/webapp/WEB-INF/lib/
+.mvn
+mvn*
